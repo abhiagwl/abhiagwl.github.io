@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamiltonian Monte Carlo | Abhinav Agrawal</title>
+    <link>http://localhost:1313/tags/hamiltonian-monte-carlo/</link>
+      <atom:link href="http://localhost:1313/tags/hamiltonian-monte-carlo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hamiltonian Monte Carlo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Hamiltonian Monte Carlo</title>
+      <link>http://localhost:1313/tags/hamiltonian-monte-carlo/</link>
+    </image>
+    
+    <item>
+      <title>Disentangling impact of capacity, objective, batchsize, estimators, and step-size on flow VI</title>
+      <link>http://localhost:1313/publication/flow-vi/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/flow-vi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
