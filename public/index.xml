@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abhinav Agrawal</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64023/</link>
+      <atom:link href="http://localhost:64023/index.xml" rel="self" type="application/rss+xml" />
     <description>Abhinav Agrawal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:64023/media/icon_hu7729264130191091259.png</url>
       <title>Abhinav Agrawal</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:64023/</link>
     </image>
     
     <item>
       <title>Disentangling impact of capacity, objective, batchsize, estimators, and step-size on flow VI</title>
-      <link>http://localhost:1313/publication/flow-vi/</link>
+      <link>http://localhost:64023/publication/flow-vi/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/flow-vi/</guid>
+      <guid>http://localhost:64023/publication/flow-vi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and mitigating difficulties in posterior predictive evaluation</title>
-      <link>http://localhost:1313/publication/eval-ppd/</link>
+      <link>http://localhost:64023/publication/eval-ppd/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eval-ppd/</guid>
+      <guid>http://localhost:64023/publication/eval-ppd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>http://localhost:64023/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>http://localhost:64023/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amortized Variational Inference in Hierarhical Distributions</title>
-      <link>http://localhost:1313/publication/amortized-vi/</link>
+      <link>http://localhost:64023/publication/amortized-vi/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/amortized-vi/</guid>
+      <guid>http://localhost:64023/publication/amortized-vi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in black-box VI: Normalizing flows, importance weighting, and optimization</title>
-      <link>http://localhost:1313/publication/advances-in-bbvi/</link>
+      <link>http://localhost:64023/publication/advances-in-bbvi/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/advances-in-bbvi/</guid>
+      <guid>http://localhost:64023/publication/advances-in-bbvi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Normalizing Flows Across Dimensions</title>
-      <link>http://localhost:1313/publication/nf-across-dim/</link>
+      <link>http://localhost:64023/publication/nf-across-dim/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nf-across-dim/</guid>
+      <guid>http://localhost:64023/publication/nf-across-dim/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:64023/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:64023/projects/</guid>
       <description></description>
     </item>
     

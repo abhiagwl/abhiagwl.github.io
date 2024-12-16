@@ -29,11 +29,12 @@ tags:
 featured: true
 links:
 url_pdf: "https://arxiv.org/abs/2412.08824"
+url_code: "https://github.com/abhiagwl/vijax"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Flow-based VI can be better than HMC'
+  caption: 'Flow-based VI can be better than HMC on challenging targets. We study the impact of several key factors and propose a recipe that can match or surpass leading HMC methods.'
   focal_point: "smart"
   preview_only: false
 

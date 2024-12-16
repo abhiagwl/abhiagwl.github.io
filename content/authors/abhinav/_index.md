@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 
+role: PhD in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,9 +40,9 @@ profiles:
   - icon: academicons/cv
     url: files/cv.pdf
 interests:
+  - Building AI products
   - Generative Modeling
   - Variational Inference
-  - Probabilistic Machine Learning
 
 education:
   - area: PhD in Computer Science
@@ -71,6 +71,9 @@ education:
 
  I’m a final year Ph.D. student in Computer Science at University of Massachusetts Amherst, advised by [Prof. Justin Domke](https://www.cs.umass.edu/~domke/). 
  
- I am broadly interested in probabilistic machine learning. My recent work focuses on leveraging generative modeling approaches for better variational inference methods. 
+ I am broadly interested in machine learning. My research work focuses on leveraging [generative modeling approaches to build better sampling methods](https://scholar.google.com/citations?user=ufb1EMYAAAAJ&hl=en&authuser=1). 
+ Recently, I was also involved in building [India's leading AI tutor app](https://padhai.ai) during time at [SigIQ.ai](https://sigiq.ai). Prior to that I spent a wonderful summer with the [Causality and Machine Learning team](https://www.microsoft.com/en-us/research/group/causal-inference/) at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), and another summer as an applied scientist intern with the personalization team at [Amazon](https://www.amazon.com/).
 
-Prior to this I spent four wonderful years at [IIT Kanpur](https://www.iitk.ac.in) acquiring background in machine learning and electrical engineering.
+Before my graduate studies, I spent four amazing years at [IIT Kanpur](https://www.iitk.ac.in) acquiring background in machine learning and electrical engineering. During this time, I was mentored by [Prof. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/), [Prof. Tanay Guha](https://www.tanayag.com), and [Prof. Vinay P. Namboodiri](https://vinaypn.github.io) (undergraduate thesis advisor).
+
+Aside from work, I enjoy keeping myself fit, reading books, making people laugh, and playing board games. I cherish deep, philosophical discussions (including but not limited to AI and its implications :)). Feel free to reach out to me and I will be more than happy to lend an ear.

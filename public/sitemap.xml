@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/approximate-inference/</loc>
+    <loc>http://localhost:64023/tags/approximate-inference/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
+    <loc>http://localhost:64023/publication_types/article/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/flow-vi/</loc>
+    <loc>http://localhost:64023/publication/flow-vi/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hamiltonian-monte-carlo/</loc>
+    <loc>http://localhost:64023/tags/hamiltonian-monte-carlo/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/importance-sampling/</loc>
+    <loc>http://localhost:64023/tags/importance-sampling/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/normalizing-flows/</loc>
+    <loc>http://localhost:64023/tags/normalizing-flows/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/posterior-predictive-evaluation/</loc>
+    <loc>http://localhost:64023/tags/posterior-predictive-evaluation/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>http://localhost:64023/publication_types/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://localhost:64023/publication/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:64023/tags/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eval-ppd/</loc>
+    <loc>http://localhost:64023/publication/eval-ppd/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/variational-inference/</loc>
+    <loc>http://localhost:64023/tags/variational-inference/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>http://localhost:64023/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:64023/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/1/</loc>
+    <loc>http://localhost:64023/publication_types/1/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/amortized-variational-inference/</loc>
+    <loc>http://localhost:64023/tags/amortized-variational-inference/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/amortized-vi/</loc>
+    <loc>http://localhost:64023/publication/amortized-vi/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/bbvi/</loc>
+    <loc>http://localhost:64023/tags/bbvi/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hierarchical-models/</loc>
+    <loc>http://localhost:64023/tags/hierarchical-models/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/scalable-inference/</loc>
+    <loc>http://localhost:64023/tags/scalable-inference/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/advances-in-bbvi/</loc>
+    <loc>http://localhost:64023/publication/advances-in-bbvi/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <loc>http://localhost:64023/publication_types/paper-conference/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/stan-models/</loc>
+    <loc>http://localhost:64023/tags/stan-models/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/generative-models/</loc>
+    <loc>http://localhost:64023/tags/generative-models/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/nf-across-dim/</loc>
+    <loc>http://localhost:64023/publication/nf-across-dim/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:64023/projects/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -31,8 +31,8 @@ url_pdf: "https://arxiv.org/abs/2405.19747"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Poor SNR in PPD evaluation'
-  focal_point: "smart"
+  caption: 'We find that the accuracy of simple MC PPD estimator suffers when dataset mismatch, latent dimension, or test data size increases. Adaptive importance sampling can help.'
+  focal_point: 
   preview_only: false
 
 projects: 

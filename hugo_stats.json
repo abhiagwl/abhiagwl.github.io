@@ -377,6 +377,7 @@
       "text-wrap",
       "text-xl",
       "text-xs",
+      "top-0",
       "top-16",
       "tracking-tight",
       "tracking-wide",
@@ -393,10 +394,12 @@
       "w-64",
       "w-full",
       "xl:block",
-      "xl:space-x-8"
+      "xl:space-x-8",
+      "z-30"
     ],
     "ids": [
       "about-me",
+      "experience",
       "hide-button",
       "nav-menu",
       "nav-toggle",

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posterior Predictive Evaluation | Abhinav Agrawal</title>
-    <link>http://localhost:1313/tags/posterior-predictive-evaluation/</link>
-      <atom:link href="http://localhost:1313/tags/posterior-predictive-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64023/tags/posterior-predictive-evaluation/</link>
+      <atom:link href="http://localhost:64023/tags/posterior-predictive-evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Posterior Predictive Evaluation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:64023/media/icon_hu7729264130191091259.png</url>
       <title>Posterior Predictive Evaluation</title>
-      <link>http://localhost:1313/tags/posterior-predictive-evaluation/</link>
+      <link>http://localhost:64023/tags/posterior-predictive-evaluation/</link>
     </image>
     
     <item>
       <title>Understanding and mitigating difficulties in posterior predictive evaluation</title>
-      <link>http://localhost:1313/publication/eval-ppd/</link>
+      <link>http://localhost:64023/publication/eval-ppd/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eval-ppd/</guid>
+      <guid>http://localhost:64023/publication/eval-ppd/</guid>
       <description></description>
     </item>
     

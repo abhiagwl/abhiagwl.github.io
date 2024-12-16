@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stan Models | Abhinav Agrawal</title>
-    <link>http://localhost:1313/tags/stan-models/</link>
-      <atom:link href="http://localhost:1313/tags/stan-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64023/tags/stan-models/</link>
+      <atom:link href="http://localhost:64023/tags/stan-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Stan Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:64023/media/icon_hu7729264130191091259.png</url>
       <title>Stan Models</title>
-      <link>http://localhost:1313/tags/stan-models/</link>
+      <link>http://localhost:64023/tags/stan-models/</link>
     </image>
     
     <item>
       <title>Advances in black-box VI: Normalizing flows, importance weighting, and optimization</title>
-      <link>http://localhost:1313/publication/advances-in-bbvi/</link>
+      <link>http://localhost:64023/publication/advances-in-bbvi/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/advances-in-bbvi/</guid>
+      <guid>http://localhost:64023/publication/advances-in-bbvi/</guid>
       <description></description>
     </item>
     

@@ -37,7 +37,7 @@ url_pdf: "https://proceedings.neurips.cc/paper_files/paper/2021/file/b28d7c6b6ae
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Complementary CDF plots of improvement'
+  caption: 'We show that amortized VI is more accurate, fast, and scalable than other methods'
   focal_point: "smart"
   preview_only: false
 

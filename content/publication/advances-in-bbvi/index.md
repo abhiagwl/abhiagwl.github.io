@@ -39,7 +39,7 @@ url_slides: 'https://drive.google.com/file/d/14vbCVxBFRX4zLG5WD83CDI_On1hNZKgF/v
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Complementary CDF plots of improvement'
+  caption: 'We study the impact of several algorithmic components on black-box VI. Step-size search + Flows + STL + Monte Carlo sampling = more robust black-box VI.'
   focal_point: "smart"
   preview_only: false
 
