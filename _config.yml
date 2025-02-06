@@ -6,14 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Abhinav
 middle_name: 
 last_name: Agrawal
-contact_note: >
-  Do not hesitate to reach out to me via email :)
+contact_note:
+  # Do not hesitate to reach out to me via email :)
 description: 
 footer_text:
 keywords: abhinav-agrawal, abhinav, agrawal, abhiagwl, abhinav-agrawal-umass, abhinav-agrawal-umass-amherst, abhinav-agrawal-umass-amherst-cs, abhinav-agrawal-flows
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: abhi_profile.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://abhiagwl.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -84,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: musings # blog_name will be displayed in your blog page
+blog_description: some thoughts, ideas, and musings
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -271,8 +271,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Agrawal]
+  first_name: [Abhinav]
 
   style: apa
   locale: en
