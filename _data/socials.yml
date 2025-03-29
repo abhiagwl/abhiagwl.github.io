@@ -11,7 +11,7 @@ custom_social: # can be any name here other than the ones already defined above
   # logo: /assets/img/cv.svg
   icon: ai ai-cv
   title: CV
-  url: /assets/pdf/cv.pdf
+  url: /assets/pdf/one_page.pdf
 email: agrawal.abhinav1@gmail.com # your email address
 scholar_userid: ufb1EMYAAAAJ # your Google Scholar ID
 # facebook_id: # your facebook id
